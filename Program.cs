@@ -31,6 +31,10 @@ namespace C50_GSat_Basics03
 
             #endregion
 
+            #region Question04
+            //sb.Replace("Book List", "Library");
+            //Console.WriteLine(sb.ToString());
+            #endregion
 
 
 
