@@ -70,7 +70,14 @@ namespace C50_GSat_Basics03
             #endregion
 
 
-
+            #region Question09
+            //int pages = 464;
+            //bool isAvailable = true;
+            //if (pages > 300 && isAvailable)
+            //{
+            //    Console.WriteLine("You can borrow this book");
+            //}
+            #endregion
 
         }
     }
