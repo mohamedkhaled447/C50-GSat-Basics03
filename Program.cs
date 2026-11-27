@@ -51,6 +51,11 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+            #region Question07
+            //string sentence = string.Format("Book: {0}, Pages: {1}", title, pages);
+            //Console.WriteLine(sentence);
+            #endregion
+
 
 
 
