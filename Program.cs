@@ -12,12 +12,13 @@
             //Console.WriteLine(upperTitle);
             #endregion
 
+            #region Qusetion2
 
-
-
-
-
-
+            //string firstBook = "Clean Code";
+            //string secondBook = "Clean Code";
+            //bool isSameReference = object.ReferenceEquals(firstBook, secondBook);
+            //Console.WriteLine(isSameReference);
+            #endregion
 
 
 
