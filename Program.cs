@@ -57,6 +57,18 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+            #region Question08
+            //int pages = 464;
+            //if (pages > 300)
+            //{
+            //    Console.WriteLine("Long Book");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Short Book");
+            //}
+            #endregion
+
 
 
 
