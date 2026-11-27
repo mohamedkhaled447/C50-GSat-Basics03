@@ -37,6 +37,13 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+            #region Question05
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string sentence = "Book: " + title + ", Pages: " + pages;
+            //Console.WriteLine(sentence);
+            #endregion
+
 
 
 
