@@ -80,6 +80,7 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+
             #region Question10
             //string title = "Refactoring";
             //switch (title)
@@ -98,7 +99,11 @@ namespace C50_GSat_Basics03
 
 
 
-
+            #region Question11
+            //int pages = 464;
+            //string sizeLabel = pages > 300 ? "Long Book" : "Short Book";
+            //Console.WriteLine(sizeLabel);
+            #endregion
 
 
 
