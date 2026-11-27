@@ -166,6 +166,18 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+            #region Question18
+            //PrintFirstBook(books);
+            #endregion
+
+            static void PrintFirstBook(string[] bookList)
+            {
+                if (bookList == null || bookList.Length == 0)
+                {
+                    return;
+                }
+                Console.WriteLine(bookList[0]);
+            }
 
 
 
