@@ -142,6 +142,16 @@ namespace C50_GSat_Basics03
             //}
             #endregion
 
+            #region Question16
+            //foreach (string book in books)
+            //{
+            //    if (book == "Refactoring")
+            //    {
+            //        break;
+            //    }
+            //    Console.WriteLine(book);
+            //}
+            #endregion
 
 
 
