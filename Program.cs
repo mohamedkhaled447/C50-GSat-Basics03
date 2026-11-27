@@ -114,6 +114,16 @@ namespace C50_GSat_Basics03
             //}
             #endregion
 
+            #region Question13
+            //int index = 0;
+            //while (index < books.Length)
+            //{
+            //    Console.WriteLine(books[index]);
+            //    index++;
+            //}
+            #endregion
+
+
 
 
 
