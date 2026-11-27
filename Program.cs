@@ -1,4 +1,6 @@
-﻿namespace C50_GSat_Basics03
+﻿using System.Text;
+
+namespace C50_GSat_Basics03
 {
     internal class Program
     {
@@ -19,6 +21,16 @@
             //bool isSameReference = object.ReferenceEquals(firstBook, secondBook);
             //Console.WriteLine(isSameReference);
             #endregion
+
+            #region Question 3
+
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+            //Console.WriteLine(sb.ToString());
+
+            #endregion
+
 
 
 
