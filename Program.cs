@@ -124,6 +124,7 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+
             #region Question14
             //int count = 0;
             //do
@@ -134,6 +135,12 @@ namespace C50_GSat_Basics03
             #endregion
 
 
+            #region Question15
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
+            #endregion
 
 
 
